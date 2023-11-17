@@ -1,0 +1,10 @@
+/* global.css */
+
+body {
+    font-size: 16px; /* Set a default base font size */
+  }
+  
+  .bold-text {
+    font-weight: bold;
+  }
+  

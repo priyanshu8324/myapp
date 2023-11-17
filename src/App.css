@@ -1,0 +1,37 @@
+/* App.css */
+
+.app {
+  text-align: center;
+
+}
+
+.header {
+  position: fixed;
+  background-color: rgb(186, 192, 115);
+  color: white;
+  padding: 5px;
+  left: 0;
+  margin: 0;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  background-color: #cce7a4;
+  padding: 2px;
+  text-align: center;
+  color: white;
+}
+
+.body {
+  padding: 20px;
+  margin-top: 60px;
+  text-align: center;
+  height: 100vh;
+  
+}
