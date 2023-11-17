@@ -15,6 +15,7 @@ const Body = (props) => {
   }
   const [names, setNames] = useState([
     { name: 'Rem' },
+    { name: 'I am the one' },
     { name: 'Gelus' },
     { name:'Light'}
 ])
